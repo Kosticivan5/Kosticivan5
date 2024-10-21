@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Ivan 👋
 
 # 💫 About Me:
 🔭 I’m currently working on zoom clone<br>👯 I’m looking to collaborate on any project with next.js or react.js<br>🤝 I’m looking for help with algorithms<br>🌱 I’m currently learning algorithms and data structures<br>💬 Ask me about front end<br>⚡ Fun fact :)
